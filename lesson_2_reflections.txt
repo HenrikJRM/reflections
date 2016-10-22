@@ -13,6 +13,21 @@ How can you use the staging area to make sure you have one commit per logical ch
 	I can compare the working directory with the staging area to see exacty what has changed. 
 	I can also compare between the staging area and lastest commit and see what has changed there. 
 
-	TESTI
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+	Forexample if your want to add an experimental feautere, that you aren't sure is going to be in the final version of the project, you can add a new branch and test it there, without affecting the main branch. 
 
+How do the diagrams help you visualize the branch structure?
+
+	It gives a great overview of the branch structure. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	You now have one branch with all the commits. The feauters in both branches are now in one. 
+	To get an overview? 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	It's smart and fast
+
+	You won't know exactly how the merge was done
