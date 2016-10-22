@@ -6,4 +6,13 @@ How is the staging area different from the working directory and the repository?
 
 	The files in the staging area are the ones that are going to be commited to the repository. The ones you want to be in your version control. You can have files in your working directory that you don't want in your version control. 
 
-TEST
+How can you use the staging area to make sure you have one commit per logical change?
+
+	I can choose to only add the files, that makes logical sense, to the staging area before I commit.
+	The files that have been modified but aren't in the staging area won't be commited before they are added to the staging area.
+	I can compare the working directory with the staging area to see exacty what has changed. 
+	I can also compare between the staging area and lastest commit and see what has changed there. 
+
+	TESTI
+
+
